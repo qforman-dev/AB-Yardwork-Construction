@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qforman-dev.github.io/AB-Yardwork/sitemap.xml
