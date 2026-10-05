@@ -9,6 +9,6 @@ This is a ready-to-publish static website for GitHub Pages. No build process, pa
 3. Under **Build and deployment**, change **Source** to **Deploy from a branch**.
 4. Select the `main` branch and the `/ (root)` folder, then click **Save**.
 
-The site will be available at `https://qforman-dev.github.io/AB-Yardwork/` after GitHub finishes publishing it.
+The site will be available at `https://qforman-dev.github.io/AB-Yardwork-Construction/` after GitHub finishes publishing it.
 
 The estimate form submits directly to Formspree at `https://formspree.io/f/meaeqwyz`.
