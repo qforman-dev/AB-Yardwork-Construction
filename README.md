@@ -1,4 +1,4 @@
-# AB Yard Care & Construction
+# AB Yardcare & Excavation
 
 This is a ready-to-publish static website for GitHub Pages. No build process, packages, or GitHub Actions workflow is required.
 
